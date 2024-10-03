@@ -7,11 +7,11 @@ cd submission_reminder_app || exit
 touch reminder.sh functions.sh config.env submissions.txt
 
 
-echo "Student1, Assignment1, 2024-10-01" >> submissions.txt
-echo "Student2, Assignment2, 2024-10-02" >> submissions.txt
-echo "Student3, Assignment3, 2024-10-03" >> submissions.txt
-echo "Student4, Assignment4, 2024-10-04" >> submissions.txt
-echo "Student5, Assignment5, 2024-10-05" >> submissions.txt
+echo "davy, shell  navigation, submitted" >> submissions.txt
+echo "chris, linux commands, submitted" >> submissions.txt
+echo "loic, shell navigation, not submitted" >> submissions.txt
+echo "eric, shell script, submitted" >> submissions.txt
+ech0 "bruce, shell navigation, not submitted" >> submissions.txt
 
 
 echo "#!/bin/bash
