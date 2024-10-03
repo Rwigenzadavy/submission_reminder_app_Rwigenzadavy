@@ -1,9 +1,7 @@
 #!/bin/bash
 
-source config.env
+echo "Starting the Submission Reminder App..."
 
+bash submission_reminder_app/reminder.sh
 
-source scripts/functions.sh
-greet
-bash scripts/reminder.sh
-
+echo "Submission Reminder App is running."
