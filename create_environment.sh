@@ -15,8 +15,6 @@ echo "bruce, shell navigation, not submitted" >> submissions.txt
 
 
 echo "#!/bin/bash
-#!/bin/bash
-
 # Source environment variables and helper functions
 source ./config/config.env
 source ./modules/functions.sh
