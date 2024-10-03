@@ -6,12 +6,11 @@ cd submission_reminder_app || exit
 
 touch reminder.sh functions.sh config.env submissions.txt
 
-
-echo "davy, shell  navigation, submitted" >> submissions.txt
-echo "chris, linux commands, submitted" >> submissions.txt
-echo "loic, shell navigation, not submitted" >> submissions.txt
-echo "eric, shell script, submitted" >> submissions.txt
-echo "bruce, shell navigation, not submitted" >> submissions.txt
+echo "davy, shell  navigation, submitted" > submissions.txt
+echo "chris, linux commands, submitted" > submissions.txt
+echo "loic, shell navigation, not submitted" > submissions.txt
+echo "eric, shell script, submitted" > submissions.txt
+echo "bruce, shell navigation, not submitted" > submissions.txt
 
 
 echo "#!/bin/bash
@@ -59,7 +58,7 @@ echo "# This is the config file
 ASSIGNMENT="Shell Navigation"
 DAYS_REMAINING=2
 "> config.env
-echo "MAX_SUBMISSIONS=100" >> config.env
+echo "MAX_SUBMISSIONS=100" > config.env
 
 
 echo "Environment setup complete!"
