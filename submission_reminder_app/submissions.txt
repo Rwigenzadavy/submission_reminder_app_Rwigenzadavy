@@ -3,3 +3,13 @@ Student2, Assignment2, 2024-10-02
 Student3, Assignment3, 2024-10-03
 Student4, Assignment4, 2024-10-04
 Student5, Assignment5, 2024-10-05
+davy, shell  navigation, submitted
+chris, linux commands, submitted
+loic, shell navigation, not submitted
+eric, shell script, submitted
+bruce, shell navigation, not submitted
+davy, shell  navigation, submitted
+chris, linux commands, submitted
+loic, shell navigation, not submitted
+eric, shell script, submitted
+bruce, shell navigation, not submitted
