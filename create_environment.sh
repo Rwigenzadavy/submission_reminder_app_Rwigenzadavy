@@ -11,7 +11,7 @@ echo "davy, shell  navigation, submitted" >> submissions.txt
 echo "chris, linux commands, submitted" >> submissions.txt
 echo "loic, shell navigation, not submitted" >> submissions.txt
 echo "eric, shell script, submitted" >> submissions.txt
-ech0 "bruce, shell navigation, not submitted" >> submissions.txt
+echo "bruce, shell navigation, not submitted" >> submissions.txt
 
 
 echo "#!/bin/bash
