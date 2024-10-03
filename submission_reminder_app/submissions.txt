@@ -1,5 +1,1 @@
-davy, shell  navigation, submitted
-chris, linux commands, submitted
-loic, shell navigation, not submitted
-eric, shell script, submitted
 bruce, shell navigation, not submitted
